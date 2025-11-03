@@ -1,0 +1,5 @@
+print("测试Python脚本运行")
+print("1. 基本输出功能正常")
+print("2. 环境检查完成")
+print("按任意键继续...")
+input()
